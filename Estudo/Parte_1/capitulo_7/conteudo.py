@@ -77,16 +77,16 @@ for i in range(1, 11):
                                         #While
 #executa um código enquanto uma condição é avaliada como True
 
-# x = 10
-# while x > 0:
-#     print('{}'.format(x))
-#     x -= 1
-# print("Feliz Ano Novo")
+x = 10
+while x > 0:
+    print('{}'.format(x))
+    x -= 1
+print("Feliz Ano Novo")
 
-# #exemplo caso o loop seja sempre True:
+#exemplo caso o loop seja sempre True:
 
-# while True:
-#     print("Loop infinito")
+while True:
+    print("Loop infinito")
 
                                         #Instrução Break
 #a instrução com a palavra-chave break serve para encerrar um loop
@@ -97,18 +97,18 @@ for i in range(0, 101):
 
 #exemplo com entrada de usuário
 
-# perguntas = [
-#     "Qual seu nome?     ",
-#     "Qual sua idade?    ",
-#     "Qual sua pergunta?     "
-# ]
-# n = 0
-# while True:
-#     print("Digite 'Q' para sair")
-#     a = input(perguntas[n])
-#     if a == "q":
-#         break
-#     n = (n + 1) % 3
+perguntas = [
+    "Qual seu nome?     ",
+    "Qual sua idade?    ",
+    "Qual sua pergunta?     "
+]
+n = 0
+while True:
+    print("Digite 'Q' para sair")
+    a = input(perguntas[n])
+    if a == "q":
+        break
+    n = (n + 1) % 3
 
                                             #Instrução Continue
 #usa-se para interromper a iteração atual de um loop e passar para a próxima iteração
