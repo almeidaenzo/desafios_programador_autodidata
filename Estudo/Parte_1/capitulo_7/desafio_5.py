@@ -1,2 +1,3 @@
-# Escreva um programa com um loop infinito (com a opção de digitar q para sair) e uma lista de números.
-# A cada iteração do loop, peça ao usuário para fornecer um número da lista e informe se o seu palpite estava ou não correto
+#Multiplique todos os números da lista [8, 19, 148, 4] por todos os números da lista [9, 1, 33, 83]
+#e acrescente cada resultado a uma terceira lista
+
