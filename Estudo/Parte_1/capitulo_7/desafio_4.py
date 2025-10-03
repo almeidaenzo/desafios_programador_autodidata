@@ -10,7 +10,7 @@ while True:
     try:
         a = int(a)
     except ValueError:
-        print("Digite um númeor ou q para sair")
+        print("Digite um número ou q para sair")
     if a in lista:
         print("Você acertou um número")
     else:
