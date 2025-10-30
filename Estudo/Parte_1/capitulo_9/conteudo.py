@@ -1,7 +1,7 @@
 #O python pode ser usado para trabalhar com arquivos, como ler e gravar dados
 # Ler - acessar os dados desse arquivo
 # Gravar - adicionar ou alterar os dados no arquivo
-#primeiro deve-se abrir o camnho usando a função open. A função recebe dois parâmetros
+#primeiro deve-se abrir o caminho usando a função open. A função recebe dois parâmetros
 # uma string representando o caminho (path), e outra representando o modo no qual será aberto
 
 #modos para abrir arquivos:
